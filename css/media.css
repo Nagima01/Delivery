@@ -1,0 +1,56 @@
+@media ( max-width: 1200px ) {
+    /*from 992 to 1200*/
+    .container {
+        max-width: 1000px;
+    }
+    .account__title {
+        width: 460px;
+
+    }
+
+}
+@media ( max-width: 992px ) {
+    /*from 992 to 1200*/
+    .container {
+        max-width: 800px;
+    }
+    .food-app__title {
+        width: 800px;
+        font-size: 49px;
+    }
+
+    .account__title {
+    }
+     .logo__img{
+     padding: 27px 0;
+     }
+     .logo__list{
+         margin-right: 100px;
+     }
+     .logo__list:last-child{
+         margin-right: 0;
+     }
+    .how-works__img {
+        left: 24px;
+    }
+    .position__img{
+    position: relative;
+    right: 90px;
+    }
+    .position__photo{
+        position: relative;
+        right: 6px;
+    }
+
+
+}
+@media ( max-width: 768px ) {
+    /*from 992 to 1200*/
+    .container {
+        max-width:576px;
+    }
+    .account__title {
+
+    }
+
+}
